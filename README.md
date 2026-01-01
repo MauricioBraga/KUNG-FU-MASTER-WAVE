@@ -51,6 +51,7 @@ MSX Pico cartridge made by Jeroen Taverne.
 - Jeroen Taverne.
 - Stefano Baldo.
 - Pedro de Medeiros.
+- Jorrith Schaap.
 - OpenMSX team.
 - Randam
 - Patriek Lesparre (TNI).
