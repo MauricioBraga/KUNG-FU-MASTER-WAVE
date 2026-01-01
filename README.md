@@ -39,7 +39,7 @@ Turn on your MSX with your Pico cartridge connected, and using Pico menu, naviga
 - **Original Publisher**: Irem
 - **Platform**: MSX
 - **Patch programmer**: Maurício Braga 
-- **WAVE musics**: produced by Renato Angelo (2025). 
+- **Kung Fu Master WAVE musics**: composed / Rearranged by Renato Angelo (2025). 
 
 MSX Pico cartridge made by Jeroen Taverne.
 
@@ -47,6 +47,7 @@ MSX Pico cartridge made by Jeroen Taverne.
 ## Thanks
 
 - Renato Angelo.
+- Wolf.
 - Jeroen Taverne.
 - Stefano Baldo.
 - Pedro de Medeiros.
